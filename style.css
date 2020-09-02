@@ -1,0 +1,21 @@
+/* .carousel{
+    border-radius: 1rem;
+}
+.carousel-item img{
+   
+}  */
+.carousel-inner img{
+    border-radius: 1rem;
+    height: 536px;
+    width: 300px;
+}
+.card{
+    display: inline-block;
+}
+.card-header div {
+    text-size-adjust: 15px;
+
+}
+#contact h1{
+    text-align: center;
+}
